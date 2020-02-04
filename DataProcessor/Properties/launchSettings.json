@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataProcessor": {
+      "commandName": "Project",
+      "commandLineArgs": "--file \"C:\\Users\\tanjin.habibur\\Documents\\Visual Studio 2017\\Projects\\DataProcessor\\psdata\\in\\data1.txt\""
+    }
+  }
+}
